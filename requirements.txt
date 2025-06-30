@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymupdf
+Pillow
+opencv-python
+numpy
+scikit-learn
+transformers
+torch
+timm
+pytesseract      
+python-multipart
+streamlit
+requests
+pandas
