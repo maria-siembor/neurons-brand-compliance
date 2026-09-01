@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Large model file (downloaded at build time per README/Dockerfile)
+frozen_east_text_detection.pb
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
